@@ -252,9 +252,9 @@ html {
 footer {
 	font-family: Raleway;
 	font-size: 10px;
-    position: absolute;
+    position: fixed;
     left: 0;
-    bottom: 0;
+    bottom: 0px;
     height: 40px;
     width: 100%;
     clear:both;
