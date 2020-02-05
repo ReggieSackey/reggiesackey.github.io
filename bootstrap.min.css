@@ -130,6 +130,13 @@ a:active {
     content:'n';
 }
 
+.soc-angellist {
+    background-color: #000000;
+}
+.soc-angellist:before {
+    content:'\e062';
+}
+
 .soc-email1 {
     background-color: #578AD6;
 }
